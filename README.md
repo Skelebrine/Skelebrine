@@ -7,7 +7,7 @@ I go by the name 'Skelebrine' or 'Skelebrinium', as my alias. I still have other
 Unfortunately, there is no way to contact me at the moment. However, I like that because it gives the developer more privacy and more time to work on their projects.
 ___
 # Tools I Use 🛠️
-I use Atom and a little sprinkle here and there of Visual Studio Code.
+I use Atom:atom: and a little sprinkle here and there of Visual Studio Code.
 ## Atom Packages Used
 * [Teletype](https://atom.io/packages/teletype)
 * [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
