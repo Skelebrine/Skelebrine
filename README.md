@@ -1,16 +1,15 @@
-### Hi there 👋
+# About Me
+I am a self-taught, soon-to-be developer. I work on all sorts of wacky stuff like virtual assistants,
+websites and web games! I'm also a Roblox developer making more random stuff.
 
-<!--
-**Skelebrine/Skelebrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by the name 'Skelebrine' or 'Skelebrinium', as my alias. I still have other things to attend to, so updates are less frequent (nobody has unlimited free time ok?).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unfortunately, there is no way to contact me at the moment. However, I like that because it gives the developer more privacy and more time to work on their projects.
+___
+# Tools I Use 🛠️
+I use Atom and a little sprinkle here and there of Visual Studio Code.
+## Atom Packages Used
+* [Teletype](https://atom.io/packages/teletype)
+* [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
+* [Markdown Preview](https://atom.io/packages/markdown-preview) (built-in)
+___
