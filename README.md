@@ -18,3 +18,8 @@ I use Atom:atom: and a little sprinkle here and there of Visual Studio Code.
 * [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
 * [Markdown Preview](https://atom.io/packages/markdown-preview) (built-in)
 ___
+## About Licenses
+None of my repositories have licenses because I think it gives people more freedom.
+
+No one has to give credit to the original source, but it would be very good to credit the creator, as a sign of respect for the creators that pour their time into these projects.
+___
