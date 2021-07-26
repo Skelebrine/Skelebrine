@@ -6,10 +6,20 @@ I go by the name 'Skelebrine' or 'Skelebrinium', as my alias. I still have other
 
 Unfortunately, there is no way to contact me at the moment. However, I like that because it gives the developer more privacy and more time to work on their projects.
 ___
-# Tools I Use 🛠️
+## Main Repositories
+* [Skelebrine.github.io](https://github.com/Skelebrine/Skelebrine.github.io)
+* [Math-Helper](https://github.com/Skelebrine/Math-Helper)
+* [Demise-Assistant](https://github.com/Skelebrine/Demise-Assistant)
+___
+## Tools I Use 🛠️
 I use Atom:atom: and a little sprinkle here and there of Visual Studio Code.
-## Atom Packages Used
+### Atom Packages Used
 * [Teletype](https://atom.io/packages/teletype)
 * [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
 * [Markdown Preview](https://atom.io/packages/markdown-preview) (built-in)
+___
+## About Licenses
+None of my repositories have licenses because I think it gives people more freedom.
+
+No one has to give credit to the original source, but it would be very good to credit the creator, as a sign of respect for the creators that pour their time into these projects.
 ___
