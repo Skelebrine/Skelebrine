@@ -25,3 +25,5 @@ No one has to give credit to the original source, but it would be very good to c
 ___
 ![](https://raw.githubusercontent.com/Skelebrine/Skelebrine/main/code.png)
 a picture of '[skel](https://github.com/Skelebrine/skel)', my python library
+<iframe frameborder="0" src="https://itch.io/embed/1152315?linkback=true&amp;bg_color=000000&amp;fg_color=ffffff" width="552" height="167"><a href="https://skelebrine.itch.io/demise-assistant">Demise Assistant by Skelebrine</a></iframe>
+___
