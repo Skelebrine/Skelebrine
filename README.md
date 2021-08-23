@@ -8,8 +8,8 @@ Unfortunately, there is no way to contact me at the moment. However, I like that
 ___
 ## Main Repositories
 * [Skelebrine.github.io](https://github.com/Skelebrine/Skelebrine.github.io)
-* [Math-Helper](https://github.com/Skelebrine/Math-Helper)
-* [Demise-Assistant](https://github.com/Skelebrine/Demise-Assistant)
+* [skel](https://github.com/Skelebrine/skel)
+* [simplerjs](https://github.com/Skelebrine/simplerjs)
 ___
 ## Tools I Use 🛠️
 I use Atom:atom: and a little sprinkle here and there of Visual Studio Code.
