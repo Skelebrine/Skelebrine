@@ -1,6 +1,6 @@
 # About Me
 Repositories on this account have been moved to my organisation.
-* [SkelOrg](https://github.com/SkelOrg)
+* [SkelOrg](https://bit.ly/SkelOrg)
 
 I am a self-taught, soon-to-be developer. I work on all sorts of wacky stuff like virtual assistants,
 websites and web games! I'm also a Roblox developer making more random stuff.
