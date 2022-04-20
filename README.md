@@ -12,15 +12,10 @@ ___
 ## Main Repositories
 NOTE: Most repositories have been moved to my Organisation.
 * [SkelOrg.github.io](https://github.com/SkelOrg/SkelOrg.github.io)
-* [skel](https://github.com/SkelOrg/skel)
-* [simplerjs](https://github.com/SkelOrg/simplerjs)
+* [TheMysticForest](https://github.com/Skelebrinium/TheMysticForest)
 ___
 ## Tools I Use 🛠️
-I use Atom:atom: and a little sprinkle here and there of Visual Studio Code.
-### Atom Packages Used
-* [Teletype](https://atom.io/packages/teletype)
-* [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
-* [Markdown Preview](https://atom.io/packages/markdown-preview) (built-in)
+I use Visual Studio Code.
 ___
 ## About Licenses
 None of my repositories have licenses because I think it gives people more freedom.
